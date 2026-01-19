@@ -8,7 +8,17 @@ This is an **early-career learning repository (2019)** and is preserved to showc
 ---
 
 ## Repository Structure
+├── Module6/
 
+│ └── Admin and Admin
+
+├── training-american-ws1/
+
+│ └── Building APIs
+
+├── training-american-ws2/
+
+│ └── Module6
 
 Each folder represents a separate training module or workshop exercise.
 
